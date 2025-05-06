@@ -1,2 +1,2 @@
-# linux-handbook
-Linux services configuration handbook
+# Linux Handbook
+Configurations Handbook for Linux Distributions
