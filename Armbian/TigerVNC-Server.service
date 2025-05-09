@@ -1,0 +1,14 @@
+[Unit]
+Description=Start VNC server at startup
+After=graphical.target
+
+[Service]
+Type=forking
+User=luisespino
+PAMName=login
+PIDFile=/home/luisespino/.vnc/%H:%i.pid
+ExecStart=/usr/bin/vncserver :%i -geometry 1280x1024 -depth 24
+ExecStop=/usr/bin/vncserver -kill :%i
+
+[Install]
+WantedBy=multi-user.target
