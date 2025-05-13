@@ -61,8 +61,10 @@ sudo pacman -S kile
 >[!WARNING]
 >Each application has a different RAM consumption:
 
+<div align="center">
 |Application|RAM|
 |---|---|
 |Visual Studio Code|~900MB|
 |Tex Studio|~300MB|
 |Kile|~200MB|
+</div>
