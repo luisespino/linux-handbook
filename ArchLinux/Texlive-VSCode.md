@@ -40,4 +40,11 @@ It is highly recommended to install the LaTeX Workshop extension for compiling a
 
 You can install it from the Extensions Marketplace (Ctrl+Shift+X → search "LaTeX Workshop").
 
-![alt text](Texlive-VSCode.png)
+![alt text](Texlive-VSCode-latexworkshop.png)
+
+If you're looking for an interface similar to Overleaf, you can install TeXstudio:
+```
+sudo pacman -S texstudio
+```
+
+![alt text](Texlive-VSCode-texstudio.png)
