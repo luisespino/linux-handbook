@@ -42,6 +42,7 @@ You can install it from the Extensions Marketplace (Ctrl+Shift+X → search "LaT
 
 ![alt text](Texlive-VSCode-latexworkshop.png)
 
+
 If you're looking for an interface similar to Overleaf, you can install TeXstudio:
 ```
 sudo pacman -S texstudio
@@ -55,3 +56,13 @@ sudo pacman -S kile
 ```
 
 ![alt text](Texlive-VSCode-kile.png)
+
+
+>[!WARNING]
+>Each application has a different RAM consumption:
+
+|Application|RAM|
+|---|---|
+|Visual Studio Code|~900MB|
+|Tex Studio|~300MB|
+|Kile|~200MB|
