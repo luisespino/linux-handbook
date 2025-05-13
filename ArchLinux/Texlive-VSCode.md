@@ -48,3 +48,10 @@ sudo pacman -S texstudio
 ```
 
 ![alt text](Texlive-VSCode-texstudio.png)
+
+Another alternative to Overleaf is Kile:
+```
+sudo pacman -S kile
+```
+
+![alt text](Texlive-VSCode-kile.png)
