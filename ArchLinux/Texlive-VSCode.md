@@ -59,7 +59,7 @@ sudo pacman -S kile
 
 
 >[!WARNING]
->Each application has a different RAM consumption:
+>Each application has different RAM consumption patterns:
 
 <div align="center">
 
