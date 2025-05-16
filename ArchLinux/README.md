@@ -2,12 +2,12 @@
 
 # Arch Linux Guides
 
-[DotNet Core](DotNet)
+[DotNet](DotNet)
 
 [NFS Server](NFS-Server)
 
 [Packet Tracer](Packet-Tracer)
 
-[Texlive and Visual Studio Code](TeX-Live)
+[Texlive](TeX-Live)
 
 [TigerVNC Client](TigerVNC-Client)
