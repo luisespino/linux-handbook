@@ -1,5 +1,5 @@
 ---
-title: Armbian Guides
+title: Ubuntu Guides
 layout: default
 parent: Linux Handbook
 has_children: true
