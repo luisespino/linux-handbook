@@ -1,3 +1,3 @@
 title: Linux Handbook
 description: Configurations Handbook for Linux Distributions
-theme: jekyll-theme-modernist
+remote_theme: just-the-docs/just-the-docs
