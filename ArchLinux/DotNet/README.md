@@ -1,4 +1,4 @@
-[⬅ Back](../README.md)
+[⬅ Back](../)
 
 # Install .NET on Arch Linux
 
