@@ -1,5 +1,5 @@
 ---
-title: Install .NET on Arch Linux
+title: Install Packet Tracer on Arch Linux
 layout: default
 parent: Arch Linux Guides
 ---

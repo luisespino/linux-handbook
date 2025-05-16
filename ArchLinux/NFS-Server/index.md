@@ -1,5 +1,5 @@
 ---
-title: Install .NET on Arch Linux
+title: Configure NFS Server on ArchLinux
 layout: default
 parent: Arch Linux Guides
 ---

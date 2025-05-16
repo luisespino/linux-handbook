@@ -1,5 +1,5 @@
 ---
-title: Install .NET on Arch Linux
+title: TigerVNC Client Connect
 layout: default
 parent: Arch Linux Guides
 ---

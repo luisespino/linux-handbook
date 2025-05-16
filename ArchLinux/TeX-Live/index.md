@@ -1,5 +1,5 @@
 ---
-title: Install .NET on Arch Linux
+title: Compiling LaTeX with TeX Live on Arch Linux
 layout: default
 parent: Arch Linux Guides
 ---

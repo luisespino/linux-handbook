@@ -1,4 +1,4 @@
-# Compiling LaTeX with TeX Live and Visual Studio Code on Arch Linux
+# Compiling LaTeX with TeX Live on Arch Linux
 
 On Linux, there are not many polished tools for editing and compiling LaTeX locally. Overleaf is a good online option, but it has its limitations. Visual Studio Code (VSCode) is a powerful alternative for writing and compiling LaTeX documents directly on your system.
 
