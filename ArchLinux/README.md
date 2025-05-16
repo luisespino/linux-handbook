@@ -1,6 +1,6 @@
 # Arch Linux Guides
 
-[DotNet Core](DotNet-Core.html)
+[DotNet Core](DotNet-Core.md)
 
 [NFS Server](NFS-Server.md)
 
