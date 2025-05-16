@@ -1,6 +1,8 @@
+[⬅ Back](../README.md)
+
 # Arch Linux Guides
 
-[DotNet Core](DotNet-Core.md)
+[DotNet Core](DotNet)
 
 [NFS Server](NFS-Server.md)
 

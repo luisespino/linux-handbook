@@ -1,6 +1,6 @@
-[⬅ Back](README.md)
+[⬅ Back](../README.md)
 
-# Install .NET Core on Arch Linux
+# Install .NET on Arch Linux
 
 Upgrade the system:
 
