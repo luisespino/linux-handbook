@@ -1,3 +1,9 @@
+---
+layout: default
+title: Arch Linux
+description: Install .NET Core on Arch Linux
+---
+
 # Install .NET Core on Arch Linux
 
 Upgrade the system:
