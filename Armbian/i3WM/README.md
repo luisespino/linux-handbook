@@ -1,3 +1,5 @@
+[⬅ Back](../)
+
 # i3WM Setup
 
 Update and upgrade the system:
