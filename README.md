@@ -7,6 +7,8 @@ Configurations Handbook for Linux Distributions
 
 [Debian](Debian)
 
+[Gentoo](Gentoo)
+
 [Raspberry Pi OS](RaspberryPiOS)
 
 [Ubuntu](Ubuntu)
