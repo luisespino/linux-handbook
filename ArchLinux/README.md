@@ -6,7 +6,7 @@
 
 [DotNet](DotNet)
 
-[Golang](Go)
+[Go and Fyne.io](Go-Fyne)
 
 [NFS Server](NFS-Server)
 
