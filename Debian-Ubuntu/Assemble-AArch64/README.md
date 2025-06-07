@@ -1,16 +1,16 @@
 [⬅ Back](../)
 
-# Assemble, Link, and Run AArch64 files on x86-64 with QEMU on Arch Linux
+# Assemble, Link, and Run AArch64 files on x86-64 with QEMU on Debian/Ubuntu
 
 Upgrade the system:
 
 ```
-sudo pacman -Syu
+sudo apt update && sudo apt upgrade -y
 ```
 
 Install AArch64 Toolchain and QEMU User Mode:
 ```
-sudo pacman -S aarch64-linux-gnu-binutils qemu-user 
+sudo apt install binutils-aarch64-linux-gnu qemu-user -y
 ```
 
 Create an Assembly Source File:

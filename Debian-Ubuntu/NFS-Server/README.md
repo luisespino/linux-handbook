@@ -1,6 +1,6 @@
 [⬅ Back](../)
 
-# Configure NFS Server on Ubuntu
+# Configure NFS Server on Debian/Ubuntu
 
 Update the system:
 ```

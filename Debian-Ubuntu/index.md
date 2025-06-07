@@ -1,5 +1,5 @@
 ---
-title: Debian Guides
+title: Debian/Ubuntu Guides
 layout: default
 parent: Linux Handbook
 has_children: true

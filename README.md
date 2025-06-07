@@ -5,10 +5,8 @@ Configurations Handbook for Linux Distributions
 
 [Armbian](Armbian)
 
-[Debian](Debian)
+[Debian/Ubuntu](Debian-Ubuntu)
 
 [Gentoo](Gentoo)
 
 [Raspberry Pi OS](RaspberryPiOS)
-
-[Ubuntu](Ubuntu)
