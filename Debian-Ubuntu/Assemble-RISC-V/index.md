@@ -1,5 +1,5 @@
 ---
-title: Assemble, Link, and Run AArch64 files on x86-64 with QEMU on Arch Linux
+title: Assemble, Link, and Run RISC-V files on x86-64 with QEMU on Debian/Ubuntu
 layout: default
 parent: Arch Linux Guides
 ---
