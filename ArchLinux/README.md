@@ -12,6 +12,8 @@
 
 [Go and Fyne.io](Go-Fyne)
 
+[NFS Client](NFS-Client)
+
 [NFS Server](NFS-Server)
 
 [Packet Tracer](Packet-Tracer)
