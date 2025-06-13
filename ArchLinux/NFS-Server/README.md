@@ -23,6 +23,8 @@ If an error occurs while starting the service, try installing the linux and linu
 sudo pacman -S linux linux-headers
 ```
 
+Sometimes it is necessary to reboot the system. Try starting the NFS server service again.
+
 Check the status of the NFS service — it should be active:
 ```
 sudo systemctl status nfs-server
