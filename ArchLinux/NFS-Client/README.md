@@ -1,6 +1,6 @@
 [⬅ Back](../)
 
-# Configure NFS Client on Raspberry Pi OS
+# Configure NFS Client on Arch Linux
 
 Update the system:
 ```
