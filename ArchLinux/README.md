@@ -12,6 +12,10 @@
 
 [Go and Fyne.io](Go-Fyne)
 
+[Lazarus and FreePascal](Lazarus-FreePascal)
+
+[MySQL](MySQL)
+
 [NFS Client](NFS-Client)
 
 [NFS Server](NFS-Server)
