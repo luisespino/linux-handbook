@@ -6,5 +6,7 @@
 
 [Assemble RISC-V on x86-64](Assemble-RISC-V)
 
+[Lazarus FreePascal](Lazarus-FreePascal)
+
 [NFS Server](NFS-Server)
 
