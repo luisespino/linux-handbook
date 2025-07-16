@@ -14,7 +14,7 @@ sudo cp /etc/pacman.d/mirrorlist /etc/pacman.d/mirrorlist.backup
 
 Use Reflector to get the 20 fastest HTTPS mirrors in your preferred country, and save them to the mirror list:
 ```
-sudo reflector --country "United States" --protocol https --latest 50 --fastest --sort rate --timeout 10 --threads 10 --save /etc/pacman.d/mirrorlist
+sudo reflector --country "United States" --protocol https --latest 50 --fastest 20 --sort rate --timeout 10 --threads 10 --save /etc/pacman.d/mirrorlist
 ```
 
 Finally, update the mirror list and upgrade the system:
