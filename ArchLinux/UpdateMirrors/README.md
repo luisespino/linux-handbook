@@ -2,6 +2,8 @@
 
 # Update Mirrors on Arch Linux
 
+This mirror update process can be repeated depending on how often you update the system; it could be every week or whenever the download speed is slow.
+
 To get the fastest mirrors, install the Reflector package:
 ```
 sudo pacman -S reflector
