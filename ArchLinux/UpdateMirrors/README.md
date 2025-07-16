@@ -12,7 +12,7 @@ Make a backup of the current mirror list:
 sudo cp /etc/pacman.d/mirrorlist /etc/pacman.d/mirrorlist.backup
 ```
 
-Get the 20 fastest https mirrors in the country you desire using Reflector, and save them to the mirror list:
+Use Reflector to get the 20 fastest HTTPS mirrors in your preferred country, and save them to the mirror list:
 ```
 sudo reflector --country "United States" --latest 20 --protocol https --sort rate --save /etc/pacman.d/mirrorlist
 ```
