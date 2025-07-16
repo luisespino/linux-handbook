@@ -25,3 +25,5 @@
 [Texlive](TeX-Live)
 
 [TigerVNC Client](TigerVNC-Client)
+
+[Update Mirrors](UpdateMirrors)
