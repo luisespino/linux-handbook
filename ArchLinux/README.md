@@ -22,6 +22,8 @@
 
 [Packet Tracer](Packet-Tracer)
 
+[PostgreSQL](PostgreSQL)
+
 [Texlive](TeX-Live)
 
 [TigerVNC Client](TigerVNC-Client)
